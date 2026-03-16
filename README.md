@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Geetika 👋
 
-<!--
-**Geetika-ai/Geetika-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ML Researcher · Generative AI · Computer Vision · 3D Spatial AI**
+ex-IIT Bombay · IEEE Published · Indian living Nantes, France.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 90-Day ML Research Journey
+
+| Metric | Progress |
+|---|---|
+| 📄 Papers read | ░░░░░░░░░░░░ 0 / 36 |
+| 🔨 Projects built | ░░░░░░░░░░░░ 0 / 12 |
+| ✍️ LinkedIn posts | ░░░░░░░░░░░░ 0 / 12 |
+| 🎬 YouTube videos | ░░░░░░░░░░░░ 0 / 12 |
+| 🔥 GitHub streak | 0 days |
+
+---
+
+## 🧠 Focus Areas
+- Generative AI (GANs, Diffusion Models)
+- Computer Vision
+- 3D Spatial AI
+- Transformer architectures
+
+---
+
+## 🔗 Links
+- 💼 [LinkedIn](https://www.linkedin.com/in/geetikamalik18/)
+- 🌐 [Website — coming soon](#)
+- 📄 [IEEE Paper — 2016](#)
