@@ -9,7 +9,7 @@ ex-IIT Bombay · IEEE Published · Indian living Nantes, France.
 
 | Metric | Progress |
 |---|---|
-| 📄 Papers read | ░░░░░░░░░░░░ 0 / 36 |
+| 📄 Papers read | ░░░░░░░░░░░░ 0 / 40 |
 | 🔨 Projects built | ░░░░░░░░░░░░ 0 / 12 |
 | 🔥 GitHub streak | 0 days |
 
